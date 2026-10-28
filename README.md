@@ -2,8 +2,7 @@
 
 A **Flutter** Android app that turns your phone's lock screen into an emergency medical ID. Store your key health details and emergency contacts once, and QMedID keeps them visible in a persistent notification, so first responders or bystanders can see who you are and who to call, even when the phone is locked.
 
-> 📦 **Repository:** _add your GitHub link here_
-> 📲 **Download APK:** _add your release link here_
+> 📦 **Repository:**(https://github.com/theopsupcorp1009/emergency-id-android-app)
 
 ---
 
