@@ -1,0 +1,62 @@
+# IDE and workspace files
+.idea/
+**/.idea/
+*.iml
+/shelf/
+/workspace.xml
+caches/
+libraries/
+markdown.xml
+misc.xml
+modules.xml
+runConfigurations/
+
+# Flutter and Dart generated files
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+
+# Android generated files
+android/.gradle/
+android/.kotlin/
+android/build/
+android/local.properties
+android/captures/
+android/gradlew
+android/gradlew.bat
+
+# iOS generated files
+ios/Flutter/.last_build_id
+ios/Flutter/ephemeral/
+ios/Pods/
+ios/.symlinks/
+ios/Runner/GeneratedPluginRegistrant.*
+
+# macOS generated files
+macos/Flutter/ephemeral/
+macos/Pods/
+
+# Linux generated files
+linux/flutter/ephemeral/
+
+# Windows generated files
+windows/flutter/ephemeral/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
